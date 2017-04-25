@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/phuongdong/.android/build-cache/2f453590069361a9005102be2f7085f98a186131/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1c4bd803461b6b03a90bb3de8b7ac8e31fb72d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4239f8fe09ba3ee45b500af60b451afdf02b6a09">
+        <dex dex="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5cd07f30c86b7eff01727098b8f9e4019d766799/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phuongdong/.android/build-cache/a4f00e7f6e3ba2f37dd1a689f08b20861a51ab23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c97af65cf747a52052132066c4d65b1a27e5d36a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phuongdong/.android/build-cache/02a6b8b2a8bad4bc806a773f85f85d6bbc688ee1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11671e380cd9775d5d0f4ce2fa4d8e83dfc9c0e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phuongdong/.android/build-cache/1a3a31c143c360c9b357ec2e9810ade624ce3fd7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b66a12a331b15d2810fc25e7adc5530c55053fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phuongdong/.android/build-cache/aa913c6b119a14a01418421c297400bf813a09df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_caf6073fae9b60136ae5e44a4bcbcb3e7d4dc128/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phuongdong/.android/build-cache/41df6b29c50f164ace9f890d46b7611fdec58c35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_142e40785c87cb93bfdb9f7202ab70052c37f724/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phuongdong/.android/build-cache/a4d8e3fe7c47649c71fab959f657c3fd080ac6b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5fd761a5a89c477592d24d480f79f4746b2d319/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phuongdong/.android/build-cache/8f0664031d507cd3c2865a97caf67b42f2520113/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_066c1281839b0bd03cea1cbc774482b71f295252/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phuongdong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_bc8079edd14fec77fe06dc28321eb162c80618ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6f7056b3d355229bcf973116d1cea2338be1a654/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phuongdong/.android/build-cache/818b9a32af75780fca3bdb58bc2e3e821e519641/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/phuongdong/AndroidStudioProjects/Flashlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8530157478c35db85687f0f16179106b5cc597d3/classes.dex" />
+    </item>
+
+</items>
